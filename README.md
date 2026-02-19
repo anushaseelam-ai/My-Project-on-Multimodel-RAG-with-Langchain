@@ -1,7 +1,7 @@
 # Multimodel-RAG-with-Langchain
 
 # Problem Statement
-To develop an intelligent AI-powered assistant that can understand complete internal deployment-related PDF documents, including older RFC documents. The system should be able to process written content, structured tables, and images with valid content, and provide quick and accurate answers through natural language queries, reducing manual document review effort.
+To develop an intelligent AI-powered assistant that can understand complete internal PDF documents, especially deployment documents. The system should be able to process written content, structured tables, and images with valid content, and provide quick and accurate answers through natural language queries, reducing manual document review effort.
 
 
 ## 1. Environment Setup
